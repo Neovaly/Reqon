@@ -8,7 +8,7 @@ Reqon es una herramienta de línea de comandos que ofrece una **interfaz interac
 
 Reqon es un proyecto **experimental** y uno de mis **primeros proyectos personales**.
 
-El desarrollo de esta herramienta surge como un **hobby** y un espacio de experimentación, donde exploro ideas relacionadas con interfaces en terminal, flujo de trabajo en herramientas CLI y diseño de interfaces. No sigue un roadmap estricto y puede cambiar conforme pruebo nuevas ideas o enfoques.
+El desarrollo de esta herramienta surge como un **hobby** y un espacio de experimentación, donde exploro ideas relacionadas con interfaces en terminal, flujo de trabajo en herramientas CLI y el uso de GitHub. No sigue un roadmap estricto y puede cambiar conforme pruebo nuevas ideas o enfoques.
 
 ---
 
